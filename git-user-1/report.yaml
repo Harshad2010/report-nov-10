@@ -1,0 +1,11 @@
+name: John Doe
+age: 30
+city: New York
+is_student: true
+grade:
+- subject: Math
+grade: D
+- subject: English
+grade: D
+- subject: Science
+grade: D+
